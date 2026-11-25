@@ -27,3 +27,8 @@ htmlcov/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Temporary document builds and previews
+tmp/
+
+*.docx
